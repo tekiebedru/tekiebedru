@@ -1,4 +1,4 @@
-<h2> Hey there! I'm yayner.</h2>
+<h2> Hey there! I'm tekichew.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -43,19 +43,19 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/yayner2002">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yayner2002&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yayner2002&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/tekiebedru">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tekiebedru&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tekiebedru&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://yayner2002.github.io/myPortfolio/"><img alt="Website" src="https://img.shields.io/badge/yayner2002.github.io/myPortfolio-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://www.linkedin.com/in/yaynshet-medhin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-yaynshet%20medhin-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/yayner_med/"><img alt="Instagram" src="https://img.shields.io/badge/yayner_med-blue?style=flat-square&logo=instagram"></a>
-<a href="yayner2002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/yayner2002@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://tekiebedru.github.io/myPortfolio/"><img alt="Website" src="https://img.shields.io/badge/tekiebedru.github.io/myPortfolio-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/tekiebedru-medhin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tekiebedru%tekiebedru-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/tekiebedru/"><img alt="Instagram" src="https://img.shields.io/badge/tekiebedru-blue?style=flat-square&logo=instagram"></a>
+<a href="tekiebedru@gmail.com"><img alt="Email" src="https://img.shields.io/badge/tekiebedru@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
